@@ -1,0 +1,646 @@
+UF,municipio,idhm,idhm_educacao,idhm_longevidade,idhm_renda,classe
+São Paulo,ADAMANTINA,0.79,0.75,0.852,0.772,Médio Desenvolvimento Humano
+São Paulo,ADOLFO,0.73,0.648,0.844,0.71,Médio Desenvolvimento Humano
+São Paulo,AGUAÍ,0.715,0.606,0.858,0.703,Médio Desenvolvimento Humano
+São Paulo,ÁGUAS DA PRATA,0.781,0.716,0.886,0.75,Médio Desenvolvimento Humano
+São Paulo,ÁGUAS DE LINDÓIA,0.745,0.675,0.846,0.725,Médio Desenvolvimento Humano
+São Paulo,ÁGUAS DE SANTA BÁRBARA,0.757,0.695,0.84,0.744,Médio Desenvolvimento Humano
+São Paulo,ÁGUAS DE SÃO PEDRO,0.854,0.825,0.89,0.849,Alto Desenvolvimento Humano
+São Paulo,AGUDOS,0.745,0.694,0.845,0.705,Médio Desenvolvimento Humano
+São Paulo,ALAMBARI,0.712,0.658,0.805,0.682,Médio Desenvolvimento Humano
+São Paulo,ALFREDO MARCONDES,0.741,0.71,0.84,0.682,Médio Desenvolvimento Humano
+São Paulo,ALTAIR,0.687,0.581,0.8,0.698,Médio Desenvolvimento Humano
+São Paulo,ALTINÓPOLIS,0.73,0.635,0.843,0.726,Médio Desenvolvimento Humano
+São Paulo,ALTO ALEGRE,0.7,0.616,0.817,0.683,Médio Desenvolvimento Humano
+São Paulo,ALUMÍNIO,0.766,0.732,0.841,0.729,Médio Desenvolvimento Humano
+São Paulo,ÁLVARES FLORENCE,0.728,0.683,0.806,0.701,Médio Desenvolvimento Humano
+São Paulo,ÁLVARES MACHADO,0.758,0.732,0.834,0.712,Médio Desenvolvimento Humano
+São Paulo,ÁLVARO DE CARVALHO,0.688,0.605,0.805,0.669,Médio Desenvolvimento Humano
+São Paulo,ALVINLÂNDIA,0.722,0.659,0.791,0.721,Médio Desenvolvimento Humano
+São Paulo,AMERICANA,0.811,0.76,0.876,0.8,Alto Desenvolvimento Humano
+São Paulo,AMÉRICO BRASILIENSE,0.751,0.701,0.852,0.709,Médio Desenvolvimento Humano
+São Paulo,AMÉRICO DE CAMPOS,0.745,0.708,0.817,0.715,Médio Desenvolvimento Humano
+São Paulo,AMPARO,0.785,0.711,0.871,0.78,Médio Desenvolvimento Humano
+São Paulo,ANALÂNDIA,0.754,0.668,0.861,0.745,Médio Desenvolvimento Humano
+São Paulo,ANDRADINA,0.779,0.702,0.885,0.762,Médio Desenvolvimento Humano
+São Paulo,ANGATUBA,0.719,0.648,0.827,0.693,Médio Desenvolvimento Humano
+São Paulo,ANHEMBI,0.721,0.637,0.863,0.681,Médio Desenvolvimento Humano
+São Paulo,ANHUMAS,0.741,0.706,0.845,0.683,Médio Desenvolvimento Humano
+São Paulo,APARECIDA,0.755,0.706,0.828,0.735,Médio Desenvolvimento Humano
+São Paulo,APARECIDA D'OESTE,0.721,0.67,0.804,0.697,Médio Desenvolvimento Humano
+São Paulo,APIAÍ,0.71,0.647,0.835,0.662,Médio Desenvolvimento Humano
+São Paulo,ARAÇARIGUAMA,0.704,0.597,0.814,0.717,Médio Desenvolvimento Humano
+São Paulo,ARAÇATUBA,0.788,0.744,0.841,0.782,Médio Desenvolvimento Humano
+São Paulo,ARAÇOIABA DA SERRA,0.776,0.723,0.86,0.751,Médio Desenvolvimento Humano
+São Paulo,ARAMINA,0.74,0.656,0.856,0.723,Médio Desenvolvimento Humano
+São Paulo,ARANDU,0.685,0.592,0.806,0.675,Médio Desenvolvimento Humano
+São Paulo,ARAPEÍ,0.68,0.612,0.812,0.634,Médio Desenvolvimento Humano
+São Paulo,ARARAQUARA,0.815,0.782,0.877,0.788,Alto Desenvolvimento Humano
+São Paulo,ARARAS,0.781,0.728,0.859,0.763,Médio Desenvolvimento Humano
+São Paulo,ARCO-ÍRIS,0.722,0.694,0.809,0.671,Médio Desenvolvimento Humano
+São Paulo,AREALVA,0.744,0.683,0.84,0.718,Médio Desenvolvimento Humano
+São Paulo,AREIAS,0.697,0.672,0.803,0.627,Médio Desenvolvimento Humano
+São Paulo,AREIÓPOLIS,0.695,0.594,0.823,0.686,Médio Desenvolvimento Humano
+São Paulo,ARIRANHA,0.733,0.663,0.813,0.73,Médio Desenvolvimento Humano
+São Paulo,ARTUR NOGUEIRA,0.749,0.681,0.827,0.745,Médio Desenvolvimento Humano
+São Paulo,ARUJÁ,0.784,0.73,0.866,0.761,Médio Desenvolvimento Humano
+São Paulo,ASPÁSIA,0.735,0.657,0.864,0.699,Médio Desenvolvimento Humano
+São Paulo,ASSIS,0.805,0.781,0.865,0.771,Alto Desenvolvimento Humano
+São Paulo,ATIBAIA,0.765,0.67,0.851,0.786,Médio Desenvolvimento Humano
+São Paulo,AURIFLAMA,0.773,0.738,0.84,0.746,Médio Desenvolvimento Humano
+São Paulo,AVAÍ,0.714,0.65,0.83,0.674,Médio Desenvolvimento Humano
+São Paulo,AVANHANDAVA,0.705,0.623,0.817,0.688,Médio Desenvolvimento Humano
+São Paulo,AVARÉ,0.767,0.695,0.866,0.751,Médio Desenvolvimento Humano
+São Paulo,BADY BASSITT,0.746,0.701,0.805,0.737,Médio Desenvolvimento Humano
+São Paulo,BALBINOS,0.669,0.537,0.809,0.69,Médio Desenvolvimento Humano
+São Paulo,BÁLSAMO,0.756,0.695,0.835,0.746,Médio Desenvolvimento Humano
+São Paulo,BANANAL,0.733,0.653,0.872,0.693,Médio Desenvolvimento Humano
+São Paulo,BARÃO DE ANTONINA,0.711,0.649,0.82,0.676,Médio Desenvolvimento Humano
+São Paulo,BARBOSA,0.699,0.599,0.843,0.676,Médio Desenvolvimento Humano
+São Paulo,BARIRI,0.75,0.662,0.867,0.736,Médio Desenvolvimento Humano
+São Paulo,BARRA BONITA,0.788,0.739,0.869,0.762,Médio Desenvolvimento Humano
+São Paulo,BARRA DO CHAPÉU,0.66,0.599,0.779,0.617,Médio Desenvolvimento Humano
+São Paulo,BARRA DO TURVO,0.641,0.532,0.792,0.625,Médio Desenvolvimento Humano
+São Paulo,BARRETOS,0.789,0.738,0.875,0.762,Médio Desenvolvimento Humano
+São Paulo,BARRINHA,0.725,0.646,0.829,0.711,Médio Desenvolvimento Humano
+São Paulo,BARUERI,0.786,0.708,0.866,0.791,Médio Desenvolvimento Humano
+São Paulo,BASTOS,0.751,0.718,0.848,0.696,Médio Desenvolvimento Humano
+São Paulo,BATATAIS,0.761,0.685,0.84,0.766,Médio Desenvolvimento Humano
+São Paulo,BAURU,0.801,0.752,0.854,0.8,Alto Desenvolvimento Humano
+São Paulo,BEBEDOURO,0.78,0.735,0.853,0.756,Médio Desenvolvimento Humano
+São Paulo,BENTO DE ABREU,0.744,0.712,0.82,0.706,Médio Desenvolvimento Humano
+São Paulo,BERNARDINO DE CAMPOS,0.734,0.662,0.838,0.713,Médio Desenvolvimento Humano
+São Paulo,BERTIOGA,0.73,0.654,0.817,0.727,Médio Desenvolvimento Humano
+São Paulo,BILAC,0.768,0.722,0.845,0.743,Médio Desenvolvimento Humano
+São Paulo,BIRIGUI,0.78,0.734,0.869,0.743,Médio Desenvolvimento Humano
+São Paulo,BIRITIBA-MIRIM,0.712,0.64,0.795,0.71,Médio Desenvolvimento Humano
+São Paulo,BOA ESPERANÇA DO SUL,0.681,0.562,0.811,0.692,Médio Desenvolvimento Humano
+São Paulo,BOCAINA,0.742,0.656,0.84,0.741,Médio Desenvolvimento Humano
+São Paulo,BOFETE,0.705,0.609,0.821,0.7,Médio Desenvolvimento Humano
+São Paulo,BOITUVA,0.78,0.728,0.861,0.757,Médio Desenvolvimento Humano
+São Paulo,BOM JESUS DOS PERDÕES,0.713,0.631,0.802,0.716,Médio Desenvolvimento Humano
+São Paulo,BOM SUCESSO DE ITARARÉ,0.66,0.613,0.775,0.605,Médio Desenvolvimento Humano
+São Paulo,BORÁ,0.746,0.675,0.863,0.712,Médio Desenvolvimento Humano
+São Paulo,BORACÉIA,0.754,0.685,0.866,0.723,Médio Desenvolvimento Humano
+São Paulo,BORBOREMA,0.73,0.658,0.831,0.71,Médio Desenvolvimento Humano
+São Paulo,BOREBI,0.705,0.615,0.846,0.674,Médio Desenvolvimento Humano
+São Paulo,BOTUCATU,0.8,0.746,0.869,0.79,Alto Desenvolvimento Humano
+São Paulo,BRAGANÇA PAULISTA,0.776,0.704,0.861,0.772,Médio Desenvolvimento Humano
+São Paulo,BRAÚNA,0.737,0.664,0.83,0.725,Médio Desenvolvimento Humano
+São Paulo,BREJO ALEGRE,0.71,0.618,0.826,0.702,Médio Desenvolvimento Humano
+São Paulo,BRODOWSKI,0.755,0.675,0.864,0.738,Médio Desenvolvimento Humano
+São Paulo,BROTAS,0.74,0.688,0.815,0.724,Médio Desenvolvimento Humano
+São Paulo,BURI,0.667,0.578,0.799,0.642,Médio Desenvolvimento Humano
+São Paulo,BURITAMA,0.763,0.72,0.839,0.736,Médio Desenvolvimento Humano
+São Paulo,BURITIZAL,0.735,0.643,0.83,0.743,Médio Desenvolvimento Humano
+São Paulo,CABRÁLIA PAULISTA,0.694,0.619,0.811,0.667,Médio Desenvolvimento Humano
+São Paulo,CABREÚVA,0.738,0.678,0.828,0.717,Médio Desenvolvimento Humano
+São Paulo,CAÇAPAVA,0.788,0.755,0.858,0.754,Médio Desenvolvimento Humano
+São Paulo,CACHOEIRA PAULISTA,0.764,0.728,0.837,0.733,Médio Desenvolvimento Humano
+São Paulo,CACONDE,0.72,0.62,0.858,0.701,Médio Desenvolvimento Humano
+São Paulo,CAFELÂNDIA,0.742,0.661,0.867,0.714,Médio Desenvolvimento Humano
+São Paulo,CAIABU,0.729,0.691,0.823,0.682,Médio Desenvolvimento Humano
+São Paulo,CAIEIRAS,0.781,0.749,0.861,0.74,Médio Desenvolvimento Humano
+São Paulo,CAIUÁ,0.697,0.635,0.802,0.665,Médio Desenvolvimento Humano
+São Paulo,CAJAMAR,0.728,0.668,0.81,0.713,Médio Desenvolvimento Humano
+São Paulo,CAJATI,0.694,0.611,0.832,0.658,Médio Desenvolvimento Humano
+São Paulo,CAJOBI,0.734,0.674,0.822,0.714,Médio Desenvolvimento Humano
+São Paulo,CAJURU,0.713,0.633,0.825,0.693,Médio Desenvolvimento Humano
+São Paulo,CAMPINA DO MONTE ALEGRE,0.717,0.634,0.846,0.687,Médio Desenvolvimento Humano
+São Paulo,CAMPINAS,0.805,0.731,0.86,0.829,Alto Desenvolvimento Humano
+São Paulo,CAMPO LIMPO PAULISTA,0.769,0.739,0.84,0.733,Médio Desenvolvimento Humano
+São Paulo,CAMPOS DO JORDÃO,0.749,0.648,0.852,0.761,Médio Desenvolvimento Humano
+São Paulo,CAMPOS NOVOS PAULISTA,0.706,0.638,0.824,0.67,Médio Desenvolvimento Humano
+São Paulo,CANANÉIA,0.72,0.649,0.851,0.677,Médio Desenvolvimento Humano
+São Paulo,CANAS,0.704,0.677,0.797,0.646,Médio Desenvolvimento Humano
+São Paulo,CÂNDIDO MOTA,0.747,0.704,0.845,0.701,Médio Desenvolvimento Humano
+São Paulo,CÂNDIDO RODRIGUES,0.789,0.762,0.863,0.747,Médio Desenvolvimento Humano
+São Paulo,CANITAR,0.68,0.605,0.791,0.658,Médio Desenvolvimento Humano
+São Paulo,CAPÃO BONITO,0.721,0.671,0.826,0.675,Médio Desenvolvimento Humano
+São Paulo,CAPELA DO ALTO,0.699,0.617,0.823,0.673,Médio Desenvolvimento Humano
+São Paulo,CAPIVARI,0.75,0.669,0.848,0.744,Médio Desenvolvimento Humano
+São Paulo,CARAGUATATUBA,0.759,0.705,0.845,0.735,Médio Desenvolvimento Humano
+São Paulo,CARAPICUÍBA,0.749,0.693,0.842,0.721,Médio Desenvolvimento Humano
+São Paulo,CARDOSO,0.722,0.636,0.853,0.695,Médio Desenvolvimento Humano
+São Paulo,CASA BRANCA,0.73,0.64,0.835,0.727,Médio Desenvolvimento Humano
+São Paulo,CÁSSIA DOS COQUEIROS,0.734,0.673,0.864,0.68,Médio Desenvolvimento Humano
+São Paulo,CASTILHO,0.731,0.686,0.827,0.688,Médio Desenvolvimento Humano
+São Paulo,CATANDUVA,0.785,0.74,0.853,0.767,Médio Desenvolvimento Humano
+São Paulo,CATIGUÁ,0.751,0.676,0.852,0.734,Médio Desenvolvimento Humano
+São Paulo,CEDRAL,0.766,0.689,0.872,0.749,Médio Desenvolvimento Humano
+São Paulo,CERQUEIRA CÉSAR,0.729,0.666,0.821,0.71,Médio Desenvolvimento Humano
+São Paulo,CERQUILHO,0.782,0.739,0.854,0.758,Médio Desenvolvimento Humano
+São Paulo,CESÁRIO LANGE,0.706,0.611,0.804,0.715,Médio Desenvolvimento Humano
+São Paulo,CHARQUEADA,0.736,0.675,0.82,0.72,Médio Desenvolvimento Humano
+São Paulo,CLEMENTINA,0.725,0.66,0.821,0.704,Médio Desenvolvimento Humano
+São Paulo,COLINA,0.757,0.712,0.845,0.72,Médio Desenvolvimento Humano
+São Paulo,COLÔMBIA,0.71,0.647,0.802,0.689,Médio Desenvolvimento Humano
+São Paulo,CONCHAL,0.708,0.614,0.827,0.699,Médio Desenvolvimento Humano
+São Paulo,CONCHAS,0.736,0.658,0.837,0.725,Médio Desenvolvimento Humano
+São Paulo,CORDEIRÓPOLIS,0.758,0.674,0.858,0.754,Médio Desenvolvimento Humano
+São Paulo,COROADOS,0.719,0.648,0.816,0.704,Médio Desenvolvimento Humano
+São Paulo,CORONEL MACEDO,0.69,0.619,0.811,0.653,Médio Desenvolvimento Humano
+São Paulo,CORUMBATAÍ,0.754,0.7,0.841,0.728,Médio Desenvolvimento Humano
+São Paulo,COSMÓPOLIS,0.769,0.697,0.876,0.746,Médio Desenvolvimento Humano
+São Paulo,COSMORAMA,0.722,0.63,0.849,0.705,Médio Desenvolvimento Humano
+São Paulo,COTIA,0.78,0.707,0.851,0.789,Médio Desenvolvimento Humano
+São Paulo,CRAVINHOS,0.756,0.683,0.857,0.737,Médio Desenvolvimento Humano
+São Paulo,CRISTAIS PAULISTA,0.734,0.682,0.802,0.723,Médio Desenvolvimento Humano
+São Paulo,CRUZÁLIA,0.774,0.778,0.853,0.698,Médio Desenvolvimento Humano
+São Paulo,CRUZEIRO,0.788,0.758,0.871,0.742,Médio Desenvolvimento Humano
+São Paulo,CUBATÃO,0.737,0.681,0.821,0.716,Médio Desenvolvimento Humano
+São Paulo,CUNHA,0.684,0.576,0.826,0.672,Médio Desenvolvimento Humano
+São Paulo,DESCALVADO,0.76,0.687,0.865,0.74,Médio Desenvolvimento Humano
+São Paulo,DIADEMA,0.757,0.716,0.844,0.717,Médio Desenvolvimento Humano
+São Paulo,DIRCE REIS,0.741,0.704,0.842,0.686,Médio Desenvolvimento Humano
+São Paulo,DIVINOLÂNDIA,0.734,0.645,0.85,0.72,Médio Desenvolvimento Humano
+São Paulo,DOBRADA,0.718,0.655,0.818,0.691,Médio Desenvolvimento Humano
+São Paulo,DOIS CÓRREGOS,0.725,0.616,0.853,0.725,Médio Desenvolvimento Humano
+São Paulo,DOLCINÓPOLIS,0.742,0.709,0.825,0.699,Médio Desenvolvimento Humano
+São Paulo,DOURADO,0.738,0.689,0.811,0.718,Médio Desenvolvimento Humano
+São Paulo,DRACENA,0.776,0.737,0.842,0.752,Médio Desenvolvimento Humano
+São Paulo,DUARTINA,0.748,0.698,0.837,0.716,Médio Desenvolvimento Humano
+São Paulo,DUMONT,0.744,0.674,0.849,0.72,Médio Desenvolvimento Humano
+São Paulo,ECHAPORÃ,0.745,0.69,0.834,0.719,Médio Desenvolvimento Humano
+São Paulo,ELDORADO,0.691,0.615,0.847,0.633,Médio Desenvolvimento Humano
+São Paulo,ELIAS FAUSTO,0.695,0.583,0.822,0.701,Médio Desenvolvimento Humano
+São Paulo,ELISIÁRIO,0.747,0.712,0.825,0.711,Médio Desenvolvimento Humano
+São Paulo,EMBAÚBA,0.73,0.641,0.84,0.723,Médio Desenvolvimento Humano
+São Paulo,EMBU,0.735,0.676,0.839,0.7,Médio Desenvolvimento Humano
+São Paulo,EMBU-GUAÇU,0.749,0.708,0.834,0.713,Médio Desenvolvimento Humano
+São Paulo,EMILIANÓPOLIS,0.727,0.691,0.805,0.69,Médio Desenvolvimento Humano
+São Paulo,ENGENHEIRO COELHO,0.732,0.668,0.815,0.72,Médio Desenvolvimento Humano
+São Paulo,ESPÍRITO SANTO DO PINHAL,0.787,0.712,0.872,0.784,Médio Desenvolvimento Humano
+São Paulo,ESPÍRITO SANTO DO TURVO,0.696,0.609,0.819,0.675,Médio Desenvolvimento Humano
+São Paulo,ESTRELA D'OESTE,0.76,0.705,0.873,0.712,Médio Desenvolvimento Humano
+São Paulo,ESTRELA DO NORTE,0.74,0.714,0.818,0.693,Médio Desenvolvimento Humano
+São Paulo,EUCLIDES DA CUNHA PAULISTA,0.704,0.655,0.802,0.663,Médio Desenvolvimento Humano
+São Paulo,FARTURA,0.732,0.648,0.867,0.699,Médio Desenvolvimento Humano
+São Paulo,FERNANDÓPOLIS,0.797,0.758,0.872,0.767,Médio Desenvolvimento Humano
+São Paulo,FERNANDO PRESTES,0.758,0.68,0.859,0.746,Médio Desenvolvimento Humano
+São Paulo,FERNÃO,0.703,0.617,0.843,0.668,Médio Desenvolvimento Humano
+São Paulo,FERRAZ DE VASCONCELOS,0.738,0.703,0.828,0.691,Médio Desenvolvimento Humano
+São Paulo,FLORA RICA,0.727,0.723,0.796,0.668,Médio Desenvolvimento Humano
+São Paulo,FLOREAL,0.747,0.726,0.808,0.71,Médio Desenvolvimento Humano
+São Paulo,FLÓRIDA PAULISTA,0.715,0.646,0.807,0.702,Médio Desenvolvimento Humano
+São Paulo,FLORÍNIA,0.713,0.652,0.82,0.678,Médio Desenvolvimento Humano
+São Paulo,FRANCA,0.78,0.753,0.842,0.749,Médio Desenvolvimento Humano
+São Paulo,FRANCISCO MORATO,0.703,0.647,0.815,0.659,Médio Desenvolvimento Humano
+São Paulo,FRANCO DA ROCHA,0.731,0.654,0.852,0.702,Médio Desenvolvimento Humano
+São Paulo,GABRIEL MONTEIRO,0.763,0.762,0.809,0.721,Médio Desenvolvimento Humano
+São Paulo,GÁLIA,0.709,0.634,0.823,0.684,Médio Desenvolvimento Humano
+São Paulo,GARÇA,0.769,0.728,0.849,0.737,Médio Desenvolvimento Humano
+São Paulo,GASTÃO VIDIGAL,0.723,0.635,0.817,0.727,Médio Desenvolvimento Humano
+São Paulo,GAVIÃO PEIXOTO,0.719,0.676,0.802,0.687,Médio Desenvolvimento Humano
+São Paulo,GENERAL SALGADO,0.747,0.702,0.808,0.734,Médio Desenvolvimento Humano
+São Paulo,GETULINA,0.717,0.652,0.813,0.696,Médio Desenvolvimento Humano
+São Paulo,GLICÉRIO,0.735,0.63,0.858,0.735,Médio Desenvolvimento Humano
+São Paulo,GUAIÇARA,0.739,0.679,0.853,0.697,Médio Desenvolvimento Humano
+São Paulo,GUAIMBÊ,0.728,0.689,0.83,0.675,Médio Desenvolvimento Humano
+São Paulo,GUAÍRA,0.753,0.683,0.824,0.759,Médio Desenvolvimento Humano
+São Paulo,GUAPIAÇU,0.725,0.605,0.866,0.728,Médio Desenvolvimento Humano
+São Paulo,GUAPIARA,0.675,0.602,0.806,0.634,Médio Desenvolvimento Humano
+São Paulo,GUARÁ,0.718,0.63,0.826,0.71,Médio Desenvolvimento Humano
+São Paulo,GUARAÇAÍ,0.719,0.663,0.803,0.699,Médio Desenvolvimento Humano
+São Paulo,GUARACI,0.737,0.682,0.84,0.698,Médio Desenvolvimento Humano
+São Paulo,GUARANI D'OESTE,0.732,0.714,0.806,0.682,Médio Desenvolvimento Humano
+São Paulo,GUARANTÃ,0.713,0.623,0.832,0.698,Médio Desenvolvimento Humano
+São Paulo,GUARARAPES,0.763,0.726,0.84,0.727,Médio Desenvolvimento Humano
+São Paulo,GUARAREMA,0.731,0.656,0.817,0.729,Médio Desenvolvimento Humano
+São Paulo,GUARATINGUETÁ,0.798,0.751,0.886,0.764,Médio Desenvolvimento Humano
+São Paulo,GUAREÍ,0.687,0.583,0.805,0.692,Médio Desenvolvimento Humano
+São Paulo,GUARIBA,0.719,0.645,0.811,0.712,Médio Desenvolvimento Humano
+São Paulo,GUARUJÁ,0.751,0.679,0.854,0.729,Médio Desenvolvimento Humano
+São Paulo,GUARULHOS,0.763,0.717,0.831,0.746,Médio Desenvolvimento Humano
+São Paulo,GUATAPARÁ,0.743,0.688,0.822,0.724,Médio Desenvolvimento Humano
+São Paulo,GUZOLÂNDIA,0.697,0.621,0.808,0.676,Médio Desenvolvimento Humano
+São Paulo,HERCULÂNDIA,0.727,0.698,0.809,0.68,Médio Desenvolvimento Humano
+São Paulo,HOLAMBRA,0.793,0.698,0.878,0.815,Médio Desenvolvimento Humano
+São Paulo,HORTOLÂNDIA,0.756,0.703,0.859,0.716,Médio Desenvolvimento Humano
+São Paulo,IACANGA,0.745,0.675,0.851,0.721,Médio Desenvolvimento Humano
+São Paulo,IACRI,0.733,0.655,0.857,0.701,Médio Desenvolvimento Humano
+São Paulo,IARAS,0.674,0.543,0.848,0.664,Médio Desenvolvimento Humano
+São Paulo,IBATÉ,0.703,0.627,0.814,0.681,Médio Desenvolvimento Humano
+São Paulo,IBIRÁ,0.74,0.65,0.841,0.741,Médio Desenvolvimento Humano
+São Paulo,IBIRAREMA,0.708,0.628,0.817,0.692,Médio Desenvolvimento Humano
+São Paulo,IBITINGA,0.747,0.667,0.846,0.738,Médio Desenvolvimento Humano
+São Paulo,IBIÚNA,0.71,0.614,0.832,0.7,Médio Desenvolvimento Humano
+São Paulo,ICÉM,0.72,0.646,0.806,0.716,Médio Desenvolvimento Humano
+São Paulo,IEPÊ,0.736,0.7,0.814,0.7,Médio Desenvolvimento Humano
+São Paulo,IGARAÇU DO TIETÊ,0.727,0.664,0.838,0.691,Médio Desenvolvimento Humano
+São Paulo,IGARAPAVA,0.768,0.671,0.835,0.809,Médio Desenvolvimento Humano
+São Paulo,IGARATÁ,0.711,0.616,0.855,0.683,Médio Desenvolvimento Humano
+São Paulo,IGUAPE,0.726,0.653,0.847,0.691,Médio Desenvolvimento Humano
+São Paulo,ILHABELA,0.756,0.693,0.843,0.739,Médio Desenvolvimento Humano
+São Paulo,ILHA COMPRIDA,0.725,0.666,0.823,0.696,Médio Desenvolvimento Humano
+São Paulo,ILHA SOLTEIRA,0.812,0.782,0.871,0.786,Alto Desenvolvimento Humano
+São Paulo,INDAIATUBA,0.788,0.738,0.837,0.791,Médio Desenvolvimento Humano
+São Paulo,INDIANA,0.761,0.733,0.843,0.714,Médio Desenvolvimento Humano
+São Paulo,INDIAPORÃ,0.751,0.71,0.835,0.714,Médio Desenvolvimento Humano
+São Paulo,INÚBIA PAULISTA,0.759,0.75,0.849,0.688,Médio Desenvolvimento Humano
+São Paulo,IPAUSSU,0.727,0.65,0.828,0.713,Médio Desenvolvimento Humano
+São Paulo,IPERÓ,0.719,0.672,0.814,0.68,Médio Desenvolvimento Humano
+São Paulo,IPEÚNA,0.753,0.685,0.845,0.737,Médio Desenvolvimento Humano
+São Paulo,IPIGUÁ,0.73,0.666,0.839,0.696,Médio Desenvolvimento Humano
+São Paulo,IPORANGA,0.703,0.668,0.816,0.637,Médio Desenvolvimento Humano
+São Paulo,IPUÃ,0.749,0.654,0.848,0.759,Médio Desenvolvimento Humano
+São Paulo,IRACEMÁPOLIS,0.776,0.729,0.863,0.742,Médio Desenvolvimento Humano
+São Paulo,IRAPUÃ,0.713,0.624,0.844,0.688,Médio Desenvolvimento Humano
+São Paulo,IRAPURU,0.712,0.622,0.839,0.691,Médio Desenvolvimento Humano
+São Paulo,ITABERÁ,0.693,0.636,0.803,0.652,Médio Desenvolvimento Humano
+São Paulo,ITAÍ,0.713,0.63,0.83,0.692,Médio Desenvolvimento Humano
+São Paulo,ITAJOBI,0.73,0.644,0.832,0.727,Médio Desenvolvimento Humano
+São Paulo,ITAJU,0.705,0.613,0.823,0.696,Médio Desenvolvimento Humano
+São Paulo,ITANHAÉM,0.745,0.701,0.823,0.716,Médio Desenvolvimento Humano
+São Paulo,ITAÓCA,0.68,0.637,0.787,0.627,Médio Desenvolvimento Humano
+São Paulo,ITAPECERICA DA SERRA,0.742,0.687,0.852,0.699,Médio Desenvolvimento Humano
+São Paulo,ITAPETININGA,0.763,0.705,0.864,0.728,Médio Desenvolvimento Humano
+São Paulo,ITAPEVA,0.732,0.697,0.803,0.702,Médio Desenvolvimento Humano
+São Paulo,ITAPEVI,0.735,0.677,0.855,0.687,Médio Desenvolvimento Humano
+São Paulo,ITAPIRA,0.762,0.692,0.852,0.75,Médio Desenvolvimento Humano
+São Paulo,ITAPIRAPUÃ PAULISTA,0.661,0.594,0.816,0.595,Médio Desenvolvimento Humano
+São Paulo,ITÁPOLIS,0.744,0.667,0.836,0.738,Médio Desenvolvimento Humano
+São Paulo,ITAPORANGA,0.719,0.653,0.835,0.681,Médio Desenvolvimento Humano
+São Paulo,ITAPUÍ,0.725,0.633,0.841,0.716,Médio Desenvolvimento Humano
+São Paulo,ITAPURA,0.72,0.673,0.813,0.682,Médio Desenvolvimento Humano
+São Paulo,ITAQUAQUECETUBA,0.714,0.648,0.844,0.665,Médio Desenvolvimento Humano
+São Paulo,ITARARÉ,0.703,0.649,0.803,0.668,Médio Desenvolvimento Humano
+São Paulo,ITARIRI,0.677,0.577,0.837,0.642,Médio Desenvolvimento Humano
+São Paulo,ITATIBA,0.778,0.708,0.844,0.788,Médio Desenvolvimento Humano
+São Paulo,ITATINGA,0.706,0.61,0.841,0.685,Médio Desenvolvimento Humano
+São Paulo,ITIRAPINA,0.724,0.636,0.813,0.734,Médio Desenvolvimento Humano
+São Paulo,ITIRAPUÃ,0.707,0.636,0.826,0.673,Médio Desenvolvimento Humano
+São Paulo,ITOBI,0.717,0.646,0.82,0.697,Médio Desenvolvimento Humano
+São Paulo,ITU,0.773,0.692,0.854,0.782,Médio Desenvolvimento Humano
+São Paulo,ITUPEVA,0.762,0.699,0.844,0.75,Médio Desenvolvimento Humano
+São Paulo,ITUVERAVA,0.765,0.694,0.841,0.768,Médio Desenvolvimento Humano
+São Paulo,JABORANDI,0.711,0.627,0.845,0.679,Médio Desenvolvimento Humano
+São Paulo,JABOTICABAL,0.778,0.71,0.851,0.778,Médio Desenvolvimento Humano
+São Paulo,JACAREÍ,0.777,0.749,0.837,0.749,Médio Desenvolvimento Humano
+São Paulo,JACI,0.723,0.659,0.818,0.7,Médio Desenvolvimento Humano
+São Paulo,JACUPIRANGA,0.717,0.644,0.832,0.687,Médio Desenvolvimento Humano
+São Paulo,JAGUARIÚNA,0.784,0.715,0.862,0.782,Médio Desenvolvimento Humano
+São Paulo,JALES,0.776,0.73,0.855,0.75,Médio Desenvolvimento Humano
+São Paulo,JAMBEIRO,0.756,0.69,0.86,0.727,Médio Desenvolvimento Humano
+São Paulo,JANDIRA,0.76,0.706,0.841,0.738,Médio Desenvolvimento Humano
+São Paulo,JARDINÓPOLIS,0.735,0.64,0.853,0.728,Médio Desenvolvimento Humano
+São Paulo,JARINU,0.733,0.659,0.826,0.723,Médio Desenvolvimento Humano
+São Paulo,JAÚ,0.778,0.693,0.886,0.768,Médio Desenvolvimento Humano
+São Paulo,JERIQUARA,0.703,0.628,0.814,0.68,Médio Desenvolvimento Humano
+São Paulo,JOANÓPOLIS,0.699,0.585,0.824,0.707,Médio Desenvolvimento Humano
+São Paulo,JOÃO RAMALHO,0.741,0.71,0.818,0.701,Médio Desenvolvimento Humano
+São Paulo,JOSÉ BONIFÁCIO,0.777,0.717,0.869,0.752,Médio Desenvolvimento Humano
+São Paulo,JÚLIO MESQUITA,0.716,0.686,0.813,0.659,Médio Desenvolvimento Humano
+São Paulo,JUMIRIM,0.741,0.655,0.863,0.721,Médio Desenvolvimento Humano
+São Paulo,JUNDIAÍ,0.822,0.768,0.866,0.834,Alto Desenvolvimento Humano
+São Paulo,JUNQUEIRÓPOLIS,0.745,0.662,0.86,0.727,Médio Desenvolvimento Humano
+São Paulo,JUQUIÁ,0.7,0.637,0.823,0.654,Médio Desenvolvimento Humano
+São Paulo,JUQUITIBA,0.709,0.662,0.791,0.68,Médio Desenvolvimento Humano
+São Paulo,LAGOINHA,0.693,0.609,0.797,0.686,Médio Desenvolvimento Humano
+São Paulo,LARANJAL PAULISTA,0.729,0.639,0.829,0.732,Médio Desenvolvimento Humano
+São Paulo,LAVÍNIA,0.721,0.655,0.82,0.698,Médio Desenvolvimento Humano
+São Paulo,LAVRINHAS,0.729,0.707,0.823,0.665,Médio Desenvolvimento Humano
+São Paulo,LEME,0.744,0.665,0.851,0.729,Médio Desenvolvimento Humano
+São Paulo,LENÇÓIS PAULISTA,0.764,0.717,0.837,0.743,Médio Desenvolvimento Humano
+São Paulo,LIMEIRA,0.775,0.719,0.852,0.761,Médio Desenvolvimento Humano
+São Paulo,LINDÓIA,0.742,0.654,0.864,0.722,Médio Desenvolvimento Humano
+São Paulo,LINS,0.786,0.733,0.869,0.762,Médio Desenvolvimento Humano
+São Paulo,LORENA,0.766,0.713,0.856,0.736,Médio Desenvolvimento Humano
+São Paulo,LOURDES,0.742,0.717,0.816,0.697,Médio Desenvolvimento Humano
+São Paulo,LOUVEIRA,0.777,0.697,0.861,0.783,Médio Desenvolvimento Humano
+São Paulo,LUCÉLIA,0.752,0.695,0.841,0.728,Médio Desenvolvimento Humano
+São Paulo,LUCIANÓPOLIS,0.733,0.662,0.809,0.736,Médio Desenvolvimento Humano
+São Paulo,LUÍS ANTÔNIO,0.731,0.671,0.822,0.709,Médio Desenvolvimento Humano
+São Paulo,LUIZIÂNIA,0.702,0.623,0.815,0.682,Médio Desenvolvimento Humano
+São Paulo,LUPÉRCIO,0.724,0.674,0.83,0.679,Médio Desenvolvimento Humano
+São Paulo,LUTÉCIA,0.72,0.659,0.846,0.67,Médio Desenvolvimento Humano
+São Paulo,MACATUBA,0.77,0.697,0.859,0.763,Médio Desenvolvimento Humano
+São Paulo,MACAUBAL,0.743,0.676,0.844,0.72,Médio Desenvolvimento Humano
+São Paulo,MACEDÔNIA,0.74,0.675,0.852,0.705,Médio Desenvolvimento Humano
+São Paulo,MAGDA,0.753,0.717,0.823,0.724,Médio Desenvolvimento Humano
+São Paulo,MAIRINQUE,0.743,0.684,0.831,0.721,Médio Desenvolvimento Humano
+São Paulo,MAIRIPORÃ,0.788,0.723,0.881,0.767,Médio Desenvolvimento Humano
+São Paulo,MANDURI,0.739,0.675,0.818,0.73,Médio Desenvolvimento Humano
+São Paulo,MARABÁ PAULISTA,0.677,0.591,0.809,0.65,Médio Desenvolvimento Humano
+São Paulo,MARACAÍ,0.771,0.758,0.85,0.711,Médio Desenvolvimento Humano
+São Paulo,MARAPOAMA,0.752,0.679,0.852,0.736,Médio Desenvolvimento Humano
+São Paulo,MARIÁPOLIS,0.718,0.651,0.83,0.684,Médio Desenvolvimento Humano
+São Paulo,MARÍLIA,0.798,0.776,0.854,0.768,Médio Desenvolvimento Humano
+São Paulo,MARINÓPOLIS,0.731,0.694,0.825,0.681,Médio Desenvolvimento Humano
+São Paulo,MARTINÓPOLIS,0.721,0.641,0.832,0.703,Médio Desenvolvimento Humano
+São Paulo,MATÃO,0.773,0.713,0.847,0.766,Médio Desenvolvimento Humano
+São Paulo,MAUÁ,0.766,0.733,0.852,0.721,Médio Desenvolvimento Humano
+São Paulo,MENDONÇA,0.744,0.663,0.863,0.72,Médio Desenvolvimento Humano
+São Paulo,MERIDIANO,0.731,0.667,0.817,0.717,Médio Desenvolvimento Humano
+São Paulo,MESÓPOLIS,0.724,0.666,0.847,0.674,Médio Desenvolvimento Humano
+São Paulo,MIGUELÓPOLIS,0.741,0.661,0.863,0.712,Médio Desenvolvimento Humano
+São Paulo,MINEIROS DO TIETÊ,0.73,0.658,0.823,0.719,Médio Desenvolvimento Humano
+São Paulo,MIRACATU,0.697,0.655,0.803,0.645,Médio Desenvolvimento Humano
+São Paulo,MIRA ESTRELA,0.743,0.731,0.806,0.697,Médio Desenvolvimento Humano
+São Paulo,MIRANDÓPOLIS,0.751,0.665,0.869,0.732,Médio Desenvolvimento Humano
+São Paulo,MIRANTE DO PARANAPANEMA,0.724,0.674,0.841,0.67,Médio Desenvolvimento Humano
+São Paulo,MIRASSOL,0.762,0.698,0.846,0.748,Médio Desenvolvimento Humano
+São Paulo,MIRASSOLÂNDIA,0.738,0.69,0.829,0.704,Médio Desenvolvimento Humano
+São Paulo,MOCOCA,0.762,0.709,0.827,0.756,Médio Desenvolvimento Humano
+São Paulo,MOGI DAS CRUZES,0.783,0.74,0.851,0.762,Médio Desenvolvimento Humano
+São Paulo,MOGI GUAÇU,0.774,0.736,0.852,0.74,Médio Desenvolvimento Humano
+São Paulo,MOJI MIRIM,0.784,0.715,0.879,0.767,Médio Desenvolvimento Humano
+São Paulo,MOMBUCA,0.719,0.607,0.82,0.746,Médio Desenvolvimento Humano
+São Paulo,MONÇÕES,0.772,0.773,0.814,0.731,Médio Desenvolvimento Humano
+São Paulo,MONGAGUÁ,0.754,0.699,0.854,0.719,Médio Desenvolvimento Humano
+São Paulo,MONTE ALEGRE DO SUL,0.759,0.678,0.858,0.752,Médio Desenvolvimento Humano
+São Paulo,MONTE ALTO,0.768,0.707,0.859,0.746,Médio Desenvolvimento Humano
+São Paulo,MONTE APRAZÍVEL,0.785,0.72,0.861,0.781,Médio Desenvolvimento Humano
+São Paulo,MONTE AZUL PAULISTA,0.753,0.69,0.843,0.733,Médio Desenvolvimento Humano
+São Paulo,MONTE CASTELO,0.741,0.709,0.814,0.706,Médio Desenvolvimento Humano
+São Paulo,MONTEIRO LOBATO,0.71,0.627,0.826,0.692,Médio Desenvolvimento Humano
+São Paulo,MONTE MOR,0.733,0.639,0.863,0.713,Médio Desenvolvimento Humano
+São Paulo,MORRO AGUDO,0.712,0.604,0.836,0.716,Médio Desenvolvimento Humano
+São Paulo,MORUNGABA,0.715,0.627,0.802,0.726,Médio Desenvolvimento Humano
+São Paulo,MOTUCA,0.741,0.691,0.859,0.685,Médio Desenvolvimento Humano
+São Paulo,MURUTINGA DO SUL,0.726,0.643,0.847,0.703,Médio Desenvolvimento Humano
+São Paulo,NANTES,0.714,0.702,0.79,0.655,Médio Desenvolvimento Humano
+São Paulo,NARANDIBA,0.718,0.67,0.839,0.659,Médio Desenvolvimento Humano
+São Paulo,NATIVIDADE DA SERRA,0.655,0.52,0.814,0.664,Médio Desenvolvimento Humano
+São Paulo,NAZARÉ PAULISTA,0.678,0.559,0.818,0.681,Médio Desenvolvimento Humano
+São Paulo,NEVES PAULISTA,0.754,0.707,0.823,0.737,Médio Desenvolvimento Humano
+São Paulo,NHANDEARA,0.751,0.672,0.835,0.755,Médio Desenvolvimento Humano
+São Paulo,NIPOÃ,0.713,0.636,0.814,0.701,Médio Desenvolvimento Humano
+São Paulo,NOVA ALIANÇA,0.738,0.684,0.826,0.71,Médio Desenvolvimento Humano
+São Paulo,NOVA CAMPINA,0.651,0.577,0.799,0.598,Médio Desenvolvimento Humano
+São Paulo,NOVA CANAÃ PAULISTA,0.715,0.675,0.806,0.673,Médio Desenvolvimento Humano
+São Paulo,NOVA CASTILHO,0.756,0.755,0.823,0.694,Médio Desenvolvimento Humano
+São Paulo,NOVA EUROPA,0.765,0.718,0.869,0.718,Médio Desenvolvimento Humano
+São Paulo,NOVA GRANADA,0.739,0.68,0.818,0.727,Médio Desenvolvimento Humano
+São Paulo,NOVA GUATAPORANGA,0.726,0.644,0.842,0.707,Médio Desenvolvimento Humano
+São Paulo,NOVA INDEPENDÊNCIA,0.735,0.711,0.827,0.675,Médio Desenvolvimento Humano
+São Paulo,NOVAIS,0.719,0.634,0.822,0.712,Médio Desenvolvimento Humano
+São Paulo,NOVA LUZITÂNIA,0.743,0.719,0.808,0.705,Médio Desenvolvimento Humano
+São Paulo,NOVA ODESSA,0.791,0.762,0.861,0.755,Médio Desenvolvimento Humano
+São Paulo,NOVO HORIZONTE,0.753,0.665,0.865,0.741,Médio Desenvolvimento Humano
+São Paulo,NUPORANGA,0.746,0.656,0.866,0.73,Médio Desenvolvimento Humano
+São Paulo,OCAUÇU,0.717,0.653,0.83,0.679,Médio Desenvolvimento Humano
+São Paulo,ÓLEO,0.73,0.637,0.858,0.713,Médio Desenvolvimento Humano
+São Paulo,OLÍMPIA,0.773,0.724,0.867,0.737,Médio Desenvolvimento Humano
+São Paulo,ONDA VERDE,0.738,0.671,0.863,0.693,Médio Desenvolvimento Humano
+São Paulo,ORIENTE,0.77,0.761,0.837,0.717,Médio Desenvolvimento Humano
+São Paulo,ORINDIÚVA,0.767,0.762,0.824,0.719,Médio Desenvolvimento Humano
+São Paulo,ORLÂNDIA,0.78,0.703,0.882,0.765,Médio Desenvolvimento Humano
+São Paulo,OSASCO,0.776,0.718,0.84,0.776,Médio Desenvolvimento Humano
+São Paulo,OSCAR BRESSANE,0.749,0.715,0.823,0.713,Médio Desenvolvimento Humano
+São Paulo,OSVALDO CRUZ,0.762,0.713,0.837,0.74,Médio Desenvolvimento Humano
+São Paulo,OURINHOS,0.778,0.727,0.859,0.753,Médio Desenvolvimento Humano
+São Paulo,OUROESTE,0.77,0.736,0.866,0.717,Médio Desenvolvimento Humano
+São Paulo,OURO VERDE,0.692,0.612,0.814,0.666,Médio Desenvolvimento Humano
+São Paulo,PACAEMBU,0.725,0.631,0.843,0.717,Médio Desenvolvimento Humano
+São Paulo,PALESTINA,0.732,0.645,0.848,0.717,Médio Desenvolvimento Humano
+São Paulo,PALMARES PAULISTA,0.722,0.645,0.837,0.698,Médio Desenvolvimento Humano
+São Paulo,PALMEIRA D'OESTE,0.753,0.714,0.829,0.72,Médio Desenvolvimento Humano
+São Paulo,PALMITAL,0.746,0.702,0.814,0.727,Médio Desenvolvimento Humano
+São Paulo,PANORAMA,0.722,0.639,0.814,0.724,Médio Desenvolvimento Humano
+São Paulo,PARAGUAÇU PAULISTA,0.762,0.739,0.836,0.717,Médio Desenvolvimento Humano
+São Paulo,PARAIBUNA,0.719,0.642,0.815,0.709,Médio Desenvolvimento Humano
+São Paulo,PARAÍSO,0.749,0.668,0.837,0.751,Médio Desenvolvimento Humano
+São Paulo,PARANAPANEMA,0.717,0.631,0.839,0.697,Médio Desenvolvimento Humano
+São Paulo,PARANAPUÃ,0.732,0.655,0.842,0.712,Médio Desenvolvimento Humano
+São Paulo,PARAPUÃ,0.737,0.696,0.83,0.693,Médio Desenvolvimento Humano
+São Paulo,PARDINHO,0.727,0.652,0.821,0.718,Médio Desenvolvimento Humano
+São Paulo,PARIQUERA-AÇU,0.736,0.678,0.862,0.682,Médio Desenvolvimento Humano
+São Paulo,PARISI,0.721,0.619,0.842,0.72,Médio Desenvolvimento Humano
+São Paulo,PATROCÍNIO PAULISTA,0.73,0.678,0.826,0.696,Médio Desenvolvimento Humano
+São Paulo,PAULICÉIA,0.711,0.64,0.811,0.692,Médio Desenvolvimento Humano
+São Paulo,PAULÍNIA,0.795,0.727,0.864,0.8,Médio Desenvolvimento Humano
+São Paulo,PAULISTÂNIA,0.718,0.663,0.817,0.683,Médio Desenvolvimento Humano
+São Paulo,PAULO DE FARIA,0.725,0.662,0.8,0.721,Médio Desenvolvimento Humano
+São Paulo,PEDERNEIRAS,0.739,0.673,0.812,0.738,Médio Desenvolvimento Humano
+São Paulo,PEDRA BELA,0.677,0.581,0.796,0.671,Médio Desenvolvimento Humano
+São Paulo,PEDRANÓPOLIS,0.742,0.684,0.854,0.698,Médio Desenvolvimento Humano
+São Paulo,PEDREGULHO,0.715,0.623,0.82,0.716,Médio Desenvolvimento Humano
+São Paulo,PEDREIRA,0.769,0.701,0.864,0.75,Médio Desenvolvimento Humano
+São Paulo,PEDRINHAS PAULISTA,0.774,0.739,0.837,0.749,Médio Desenvolvimento Humano
+São Paulo,PEDRO DE TOLEDO,0.696,0.634,0.812,0.654,Médio Desenvolvimento Humano
+São Paulo,PENÁPOLIS,0.759,0.68,0.859,0.748,Médio Desenvolvimento Humano
+São Paulo,PEREIRA BARRETO,0.766,0.732,0.845,0.728,Médio Desenvolvimento Humano
+São Paulo,PEREIRAS,0.736,0.637,0.873,0.717,Médio Desenvolvimento Humano
+São Paulo,PERUÍBE,0.749,0.675,0.854,0.73,Médio Desenvolvimento Humano
+São Paulo,PIACATU,0.732,0.684,0.843,0.681,Médio Desenvolvimento Humano
+São Paulo,PIEDADE,0.716,0.624,0.848,0.694,Médio Desenvolvimento Humano
+São Paulo,PILAR DO SUL,0.69,0.594,0.82,0.674,Médio Desenvolvimento Humano
+São Paulo,PINDAMONHANGABA,0.773,0.736,0.843,0.745,Médio Desenvolvimento Humano
+São Paulo,PINDORAMA,0.737,0.654,0.842,0.726,Médio Desenvolvimento Humano
+São Paulo,PINHALZINHO,0.725,0.666,0.808,0.707,Médio Desenvolvimento Humano
+São Paulo,PIQUEROBI,0.711,0.644,0.836,0.669,Médio Desenvolvimento Humano
+São Paulo,PIQUETE,0.757,0.74,0.823,0.711,Médio Desenvolvimento Humano
+São Paulo,PIRACAIA,0.739,0.625,0.851,0.758,Médio Desenvolvimento Humano
+São Paulo,PIRACICABA,0.785,0.717,0.848,0.797,Médio Desenvolvimento Humano
+São Paulo,PIRAJU,0.758,0.699,0.843,0.74,Médio Desenvolvimento Humano
+São Paulo,PIRAJUÍ,0.749,0.672,0.853,0.734,Médio Desenvolvimento Humano
+São Paulo,PIRANGI,0.756,0.701,0.837,0.735,Médio Desenvolvimento Humano
+São Paulo,PIRAPORA DO BOM JESUS,0.727,0.698,0.81,0.679,Médio Desenvolvimento Humano
+São Paulo,PIRAPOZINHO,0.776,0.733,0.863,0.74,Médio Desenvolvimento Humano
+São Paulo,PIRASSUNUNGA,0.801,0.736,0.884,0.789,Alto Desenvolvimento Humano
+São Paulo,PIRATININGA,0.779,0.723,0.859,0.762,Médio Desenvolvimento Humano
+São Paulo,PITANGUEIRAS,0.723,0.651,0.83,0.699,Médio Desenvolvimento Humano
+São Paulo,PLANALTO,0.719,0.639,0.853,0.683,Médio Desenvolvimento Humano
+São Paulo,PLATINA,0.719,0.652,0.824,0.691,Médio Desenvolvimento Humano
+São Paulo,POÁ,0.771,0.754,0.856,0.71,Médio Desenvolvimento Humano
+São Paulo,POLONI,0.766,0.717,0.853,0.736,Médio Desenvolvimento Humano
+São Paulo,POMPÉIA,0.786,0.748,0.864,0.75,Médio Desenvolvimento Humano
+São Paulo,PONGAÍ,0.755,0.701,0.844,0.727,Médio Desenvolvimento Humano
+São Paulo,PONTAL,0.725,0.633,0.838,0.718,Médio Desenvolvimento Humano
+São Paulo,PONTALINDA,0.702,0.604,0.847,0.677,Médio Desenvolvimento Humano
+São Paulo,PONTES GESTAL,0.732,0.69,0.805,0.705,Médio Desenvolvimento Humano
+São Paulo,POPULINA,0.714,0.647,0.804,0.699,Médio Desenvolvimento Humano
+São Paulo,PORANGABA,0.703,0.578,0.864,0.696,Médio Desenvolvimento Humano
+São Paulo,PORTO FELIZ,0.758,0.706,0.836,0.737,Médio Desenvolvimento Humano
+São Paulo,PORTO FERREIRA,0.751,0.696,0.827,0.736,Médio Desenvolvimento Humano
+São Paulo,POTIM,0.697,0.646,0.806,0.651,Médio Desenvolvimento Humano
+São Paulo,POTIRENDABA,0.747,0.661,0.857,0.737,Médio Desenvolvimento Humano
+São Paulo,PRACINHA,0.696,0.629,0.814,0.658,Médio Desenvolvimento Humano
+São Paulo,PRADÓPOLIS,0.733,0.65,0.822,0.738,Médio Desenvolvimento Humano
+São Paulo,PRAIA GRANDE,0.754,0.692,0.834,0.744,Médio Desenvolvimento Humano
+São Paulo,PRATÂNIA,0.701,0.633,0.798,0.681,Médio Desenvolvimento Humano
+São Paulo,PRESIDENTE ALVES,0.735,0.689,0.811,0.711,Médio Desenvolvimento Humano
+São Paulo,PRESIDENTE BERNARDES,0.757,0.719,0.839,0.718,Médio Desenvolvimento Humano
+São Paulo,PRESIDENTE EPITÁCIO,0.75,0.7,0.845,0.714,Médio Desenvolvimento Humano
+São Paulo,PRESIDENTE PRUDENTE,0.806,0.774,0.858,0.788,Alto Desenvolvimento Humano
+São Paulo,PRESIDENTE VENCESLAU,0.763,0.708,0.837,0.749,Médio Desenvolvimento Humano
+São Paulo,PROMISSÃO,0.743,0.666,0.85,0.724,Médio Desenvolvimento Humano
+São Paulo,QUADRA,0.678,0.541,0.822,0.7,Médio Desenvolvimento Humano
+São Paulo,QUATÁ,0.738,0.7,0.814,0.706,Médio Desenvolvimento Humano
+São Paulo,QUEIROZ,0.715,0.681,0.811,0.662,Médio Desenvolvimento Humano
+São Paulo,QUELUZ,0.722,0.687,0.823,0.665,Médio Desenvolvimento Humano
+São Paulo,QUINTANA,0.732,0.703,0.811,0.689,Médio Desenvolvimento Humano
+São Paulo,RAFARD,0.745,0.696,0.823,0.722,Médio Desenvolvimento Humano
+São Paulo,RANCHARIA,0.751,0.683,0.861,0.72,Médio Desenvolvimento Humano
+São Paulo,REDENÇÃO DA SERRA,0.657,0.56,0.799,0.633,Médio Desenvolvimento Humano
+São Paulo,REGENTE FEIJÓ,0.768,0.752,0.818,0.735,Médio Desenvolvimento Humano
+São Paulo,REGINÓPOLIS,0.728,0.66,0.817,0.715,Médio Desenvolvimento Humano
+São Paulo,REGISTRO,0.754,0.702,0.851,0.718,Médio Desenvolvimento Humano
+São Paulo,RESTINGA,0.705,0.639,0.826,0.664,Médio Desenvolvimento Humano
+São Paulo,RIBEIRA,0.698,0.673,0.797,0.635,Médio Desenvolvimento Humano
+São Paulo,RIBEIRÃO BONITO,0.712,0.625,0.811,0.712,Médio Desenvolvimento Humano
+São Paulo,RIBEIRÃO BRANCO,0.639,0.553,0.797,0.592,Médio Desenvolvimento Humano
+São Paulo,RIBEIRÃO CORRENTE,0.711,0.642,0.814,0.688,Médio Desenvolvimento Humano
+São Paulo,RIBEIRÃO DO SUL,0.747,0.676,0.818,0.753,Médio Desenvolvimento Humano
+São Paulo,RIBEIRÃO DOS ÍNDIOS,0.721,0.701,0.809,0.661,Médio Desenvolvimento Humano
+São Paulo,RIBEIRÃO GRANDE,0.705,0.676,0.807,0.643,Médio Desenvolvimento Humano
+São Paulo,RIBEIRÃO PIRES,0.784,0.76,0.847,0.749,Médio Desenvolvimento Humano
+São Paulo,RIBEIRÃO PRETO,0.8,0.739,0.844,0.82,Alto Desenvolvimento Humano
+São Paulo,RIVERSUL,0.664,0.577,0.799,0.634,Médio Desenvolvimento Humano
+São Paulo,RIFAINA,0.74,0.69,0.824,0.713,Médio Desenvolvimento Humano
+São Paulo,RINCÃO,0.734,0.682,0.826,0.701,Médio Desenvolvimento Humano
+São Paulo,RINÓPOLIS,0.723,0.644,0.843,0.696,Médio Desenvolvimento Humano
+São Paulo,RIO CLARO,0.803,0.766,0.862,0.784,Alto Desenvolvimento Humano
+São Paulo,RIO DAS PEDRAS,0.759,0.7,0.842,0.741,Médio Desenvolvimento Humano
+São Paulo,RIO GRANDE DA SERRA,0.749,0.745,0.823,0.684,Médio Desenvolvimento Humano
+São Paulo,RIOLÂNDIA,0.703,0.629,0.817,0.677,Médio Desenvolvimento Humano
+São Paulo,ROSANA,0.764,0.728,0.818,0.749,Médio Desenvolvimento Humano
+São Paulo,ROSEIRA,0.737,0.704,0.823,0.691,Médio Desenvolvimento Humano
+São Paulo,RUBIÁCEA,0.721,0.668,0.82,0.684,Médio Desenvolvimento Humano
+São Paulo,RUBINÉIA,0.759,0.726,0.844,0.713,Médio Desenvolvimento Humano
+São Paulo,SABINO,0.728,0.671,0.813,0.708,Médio Desenvolvimento Humano
+São Paulo,SAGRES,0.73,0.677,0.83,0.692,Médio Desenvolvimento Humano
+São Paulo,SALES,0.751,0.697,0.859,0.708,Médio Desenvolvimento Humano
+São Paulo,SALES OLIVEIRA,0.772,0.739,0.845,0.738,Médio Desenvolvimento Humano
+São Paulo,SALESÓPOLIS,0.732,0.69,0.829,0.687,Médio Desenvolvimento Humano
+São Paulo,SALMOURÃO,0.719,0.649,0.846,0.678,Médio Desenvolvimento Humano
+São Paulo,SALTINHO,0.791,0.75,0.857,0.771,Médio Desenvolvimento Humano
+São Paulo,SALTO,0.78,0.751,0.837,0.755,Médio Desenvolvimento Humano
+São Paulo,SALTO DE PIRAPORA,0.729,0.665,0.834,0.699,Médio Desenvolvimento Humano
+São Paulo,SALTO GRANDE,0.704,0.637,0.825,0.664,Médio Desenvolvimento Humano
+São Paulo,SANDOVALINA,0.709,0.659,0.812,0.665,Médio Desenvolvimento Humano
+São Paulo,SANTA ADÉLIA,0.76,0.702,0.835,0.75,Médio Desenvolvimento Humano
+São Paulo,SANTA ALBERTINA,0.728,0.665,0.809,0.716,Médio Desenvolvimento Humano
+São Paulo,SANTA BÁRBARA D'OESTE,0.781,0.731,0.867,0.752,Médio Desenvolvimento Humano
+São Paulo,SANTA BRANCA,0.735,0.678,0.828,0.706,Médio Desenvolvimento Humano
+São Paulo,SANTA CLARA D'OESTE,0.733,0.687,0.804,0.712,Médio Desenvolvimento Humano
+São Paulo,SANTA CRUZ DA CONCEIÇÃO,0.79,0.679,0.876,0.83,Médio Desenvolvimento Humano
+São Paulo,SANTA CRUZ DA ESPERANÇA,0.743,0.686,0.832,0.719,Médio Desenvolvimento Humano
+São Paulo,SANTA CRUZ DAS PALMEIRAS,0.728,0.635,0.815,0.746,Médio Desenvolvimento Humano
+São Paulo,SANTA CRUZ DO RIO PARDO,0.762,0.686,0.867,0.744,Médio Desenvolvimento Humano
+São Paulo,SANTA ERNESTINA,0.738,0.699,0.802,0.716,Médio Desenvolvimento Humano
+São Paulo,SANTA FÉ DO SUL,0.784,0.751,0.84,0.763,Médio Desenvolvimento Humano
+São Paulo,SANTA GERTRUDES,0.737,0.654,0.847,0.723,Médio Desenvolvimento Humano
+São Paulo,SANTA ISABEL,0.738,0.689,0.834,0.7,Médio Desenvolvimento Humano
+São Paulo,SANTA LÚCIA,0.737,0.703,0.818,0.696,Médio Desenvolvimento Humano
+São Paulo,SANTA MARIA DA SERRA,0.686,0.571,0.82,0.688,Médio Desenvolvimento Humano
+São Paulo,SANTA MERCEDES,0.739,0.699,0.847,0.683,Médio Desenvolvimento Humano
+São Paulo,SANTANA DA PONTE PENSA,0.773,0.733,0.84,0.751,Médio Desenvolvimento Humano
+São Paulo,SANTANA DE PARNAÍBA,0.814,0.725,0.849,0.876,Alto Desenvolvimento Humano
+São Paulo,SANTA RITA D'OESTE,0.761,0.74,0.839,0.711,Médio Desenvolvimento Humano
+São Paulo,SANTA RITA DO PASSA QUATRO,0.775,0.686,0.887,0.764,Médio Desenvolvimento Humano
+São Paulo,SANTA ROSA DE VITERBO,0.77,0.704,0.868,0.746,Médio Desenvolvimento Humano
+São Paulo,SANTA SALETE,0.772,0.748,0.864,0.712,Médio Desenvolvimento Humano
+São Paulo,SANTO ANASTÁCIO,0.753,0.689,0.854,0.725,Médio Desenvolvimento Humano
+São Paulo,SANTO ANDRÉ,0.815,0.769,0.861,0.819,Alto Desenvolvimento Humano
+São Paulo,SANTO ANTÔNIO DA ALEGRIA,0.702,0.604,0.83,0.69,Médio Desenvolvimento Humano
+São Paulo,SANTO ANTÔNIO DE POSSE,0.702,0.576,0.838,0.718,Médio Desenvolvimento Humano
+São Paulo,SANTO ANTÔNIO DO ARACANGUÁ,0.757,0.728,0.84,0.71,Médio Desenvolvimento Humano
+São Paulo,SANTO ANTÔNIO DO JARDIM,0.714,0.62,0.835,0.703,Médio Desenvolvimento Humano
+São Paulo,SANTO ANTÔNIO DO PINHAL,0.706,0.632,0.812,0.685,Médio Desenvolvimento Humano
+São Paulo,SANTO EXPEDITO,0.732,0.714,0.828,0.664,Médio Desenvolvimento Humano
+São Paulo,SANTÓPOLIS DO AGUAPEÍ,0.74,0.719,0.83,0.68,Médio Desenvolvimento Humano
+São Paulo,SANTOS,0.84,0.807,0.852,0.861,Alto Desenvolvimento Humano
+São Paulo,SÃO BENTO DO SAPUCAÍ,0.72,0.638,0.812,0.719,Médio Desenvolvimento Humano
+São Paulo,SÃO BERNARDO DO CAMPO,0.805,0.752,0.861,0.807,Alto Desenvolvimento Humano
+São Paulo,SÃO CAETANO DO SUL,0.862,0.811,0.887,0.891,Alto Desenvolvimento Humano
+São Paulo,SÃO CARLOS,0.805,0.766,0.863,0.788,Alto Desenvolvimento Humano
+São Paulo,SÃO FRANCISCO,0.723,0.658,0.814,0.705,Médio Desenvolvimento Humano
+São Paulo,SÃO JOÃO DA BOA VISTA,0.797,0.749,0.871,0.776,Médio Desenvolvimento Humano
+São Paulo,SÃO JOÃO DAS DUAS PONTES,0.72,0.686,0.806,0.675,Médio Desenvolvimento Humano
+São Paulo,SÃO JOÃO DE IRACEMA,0.748,0.738,0.833,0.682,Médio Desenvolvimento Humano
+São Paulo,SÃO JOÃO DO PAU D'ALHO,0.75,0.692,0.854,0.714,Médio Desenvolvimento Humano
+São Paulo,SÃO JOAQUIM DA BARRA,0.762,0.706,0.847,0.74,Médio Desenvolvimento Humano
+São Paulo,SÃO JOSÉ DA BELA VISTA,0.693,0.58,0.844,0.679,Médio Desenvolvimento Humano
+São Paulo,SÃO JOSÉ DO BARREIRO,0.684,0.591,0.813,0.666,Médio Desenvolvimento Humano
+São Paulo,SÃO JOSÉ DO RIO PARDO,0.774,0.717,0.868,0.744,Médio Desenvolvimento Humano
+São Paulo,SÃO JOSÉ DO RIO PRETO,0.797,0.748,0.846,0.801,Médio Desenvolvimento Humano
+São Paulo,SÃO JOSÉ DOS CAMPOS,0.807,0.764,0.855,0.804,Alto Desenvolvimento Humano
+São Paulo,SÃO LOURENÇO DA SERRA,0.728,0.666,0.823,0.704,Médio Desenvolvimento Humano
+São Paulo,SÃO LUÍS DO PARAITINGA,0.697,0.593,0.826,0.691,Médio Desenvolvimento Humano
+São Paulo,SÃO MANUEL,0.744,0.695,0.805,0.735,Médio Desenvolvimento Humano
+São Paulo,SÃO MIGUEL ARCANJO,0.71,0.633,0.799,0.708,Médio Desenvolvimento Humano
+São Paulo,SÃO PAULO,0.805,0.725,0.855,0.843,Alto Desenvolvimento Humano
+São Paulo,SÃO PEDRO,0.755,0.674,0.863,0.741,Médio Desenvolvimento Humano
+São Paulo,SÃO PEDRO DO TURVO,0.703,0.636,0.826,0.661,Médio Desenvolvimento Humano
+São Paulo,SÃO ROQUE,0.768,0.687,0.863,0.765,Médio Desenvolvimento Humano
+São Paulo,SÃO SEBASTIÃO,0.772,0.703,0.875,0.747,Médio Desenvolvimento Humano
+São Paulo,SÃO SEBASTIÃO DA GRAMA,0.701,0.609,0.82,0.689,Médio Desenvolvimento Humano
+São Paulo,SÃO SIMÃO,0.766,0.722,0.852,0.732,Médio Desenvolvimento Humano
+São Paulo,SÃO VICENTE,0.768,0.716,0.857,0.738,Médio Desenvolvimento Humano
+São Paulo,SARAPUÍ,0.707,0.621,0.814,0.699,Médio Desenvolvimento Humano
+São Paulo,SARUTAIÁ,0.688,0.603,0.794,0.679,Médio Desenvolvimento Humano
+São Paulo,SEBASTIANÓPOLIS DO SUL,0.773,0.74,0.835,0.748,Médio Desenvolvimento Humano
+São Paulo,SERRA AZUL,0.686,0.572,0.81,0.697,Médio Desenvolvimento Humano
+São Paulo,SERRANA,0.729,0.65,0.835,0.713,Médio Desenvolvimento Humano
+São Paulo,SERRA NEGRA,0.767,0.676,0.873,0.764,Médio Desenvolvimento Humano
+São Paulo,SERTÃOZINHO,0.761,0.672,0.855,0.768,Médio Desenvolvimento Humano
+São Paulo,SETE BARRAS,0.673,0.562,0.832,0.651,Médio Desenvolvimento Humano
+São Paulo,SEVERÍNIA,0.715,0.638,0.807,0.709,Médio Desenvolvimento Humano
+São Paulo,SILVEIRAS,0.678,0.584,0.812,0.657,Médio Desenvolvimento Humano
+São Paulo,SOCORRO,0.729,0.634,0.828,0.737,Médio Desenvolvimento Humano
+São Paulo,SOROCABA,0.798,0.762,0.843,0.792,Médio Desenvolvimento Humano
+São Paulo,SUD MENNUCCI,0.747,0.694,0.809,0.743,Médio Desenvolvimento Humano
+São Paulo,SUMARÉ,0.762,0.705,0.845,0.744,Médio Desenvolvimento Humano
+São Paulo,SUZANO,0.765,0.723,0.873,0.708,Médio Desenvolvimento Humano
+São Paulo,SUZANÁPOLIS,0.699,0.631,0.813,0.665,Médio Desenvolvimento Humano
+São Paulo,TABAPUÃ,0.735,0.666,0.82,0.726,Médio Desenvolvimento Humano
+São Paulo,TABATINGA,0.704,0.609,0.818,0.7,Médio Desenvolvimento Humano
+São Paulo,TABOÃO DA SERRA,0.769,0.71,0.863,0.742,Médio Desenvolvimento Humano
+São Paulo,TACIBA,0.723,0.684,0.809,0.682,Médio Desenvolvimento Humano
+São Paulo,TAGUAÍ,0.709,0.631,0.818,0.69,Médio Desenvolvimento Humano
+São Paulo,TAIAÇU,0.71,0.628,0.814,0.701,Médio Desenvolvimento Humano
+São Paulo,TAIÚVA,0.76,0.718,0.835,0.732,Médio Desenvolvimento Humano
+São Paulo,TAMBAÚ,0.731,0.624,0.858,0.729,Médio Desenvolvimento Humano
+São Paulo,TANABI,0.748,0.687,0.829,0.735,Médio Desenvolvimento Humano
+São Paulo,TAPIRAÍ,0.681,0.578,0.846,0.647,Médio Desenvolvimento Humano
+São Paulo,TAPIRATIBA,0.751,0.692,0.87,0.703,Médio Desenvolvimento Humano
+São Paulo,TAQUARAL,0.759,0.716,0.823,0.742,Médio Desenvolvimento Humano
+São Paulo,TAQUARITINGA,0.748,0.696,0.827,0.727,Médio Desenvolvimento Humano
+São Paulo,TAQUARITUBA,0.701,0.606,0.811,0.7,Médio Desenvolvimento Humano
+São Paulo,TAQUARIVAÍ,0.679,0.626,0.811,0.617,Médio Desenvolvimento Humano
+São Paulo,TARABAI,0.726,0.697,0.823,0.666,Médio Desenvolvimento Humano
+São Paulo,TARUMÃ,0.753,0.68,0.852,0.738,Médio Desenvolvimento Humano
+São Paulo,TATUÍ,0.752,0.688,0.842,0.734,Médio Desenvolvimento Humano
+São Paulo,TAUBATÉ,0.8,0.746,0.883,0.778,Alto Desenvolvimento Humano
+São Paulo,TEJUPÁ,0.668,0.563,0.794,0.668,Médio Desenvolvimento Humano
+São Paulo,TEODORO SAMPAIO,0.741,0.679,0.856,0.699,Médio Desenvolvimento Humano
+São Paulo,TERRA ROXA,0.749,0.684,0.838,0.732,Médio Desenvolvimento Humano
+São Paulo,TIETÊ,0.778,0.698,0.884,0.764,Médio Desenvolvimento Humano
+São Paulo,TIMBURI,0.71,0.629,0.826,0.688,Médio Desenvolvimento Humano
+São Paulo,TORRE DE PEDRA,0.714,0.647,0.829,0.679,Médio Desenvolvimento Humano
+São Paulo,TORRINHA,0.744,0.658,0.852,0.734,Médio Desenvolvimento Humano
+São Paulo,TRABIJU,0.722,0.697,0.811,0.666,Médio Desenvolvimento Humano
+São Paulo,TREMEMBÉ,0.785,0.72,0.873,0.769,Médio Desenvolvimento Humano
+São Paulo,TRÊS FRONTEIRAS,0.753,0.726,0.829,0.71,Médio Desenvolvimento Humano
+São Paulo,TUIUTI,0.728,0.63,0.871,0.702,Médio Desenvolvimento Humano
+São Paulo,TUPÃ,0.771,0.704,0.852,0.764,Médio Desenvolvimento Humano
+São Paulo,TUPI PAULISTA,0.769,0.715,0.835,0.762,Médio Desenvolvimento Humano
+São Paulo,TURIÚBA,0.751,0.721,0.824,0.713,Médio Desenvolvimento Humano
+São Paulo,TURMALINA,0.736,0.675,0.817,0.724,Médio Desenvolvimento Humano
+São Paulo,UBARANA,0.7,0.604,0.844,0.672,Médio Desenvolvimento Humano
+São Paulo,UBATUBA,0.751,0.679,0.841,0.741,Médio Desenvolvimento Humano
+São Paulo,UBIRAJARA,0.727,0.674,0.829,0.689,Médio Desenvolvimento Humano
+São Paulo,UCHOA,0.721,0.644,0.823,0.708,Médio Desenvolvimento Humano
+São Paulo,UNIÃO PAULISTA,0.749,0.699,0.863,0.697,Médio Desenvolvimento Humano
+São Paulo,URÂNIA,0.746,0.709,0.804,0.727,Médio Desenvolvimento Humano
+São Paulo,URU,0.712,0.639,0.832,0.678,Médio Desenvolvimento Humano
+São Paulo,URUPÊS,0.745,0.683,0.817,0.741,Médio Desenvolvimento Humano
+São Paulo,VALENTIM GENTIL,0.735,0.692,0.81,0.708,Médio Desenvolvimento Humano
+São Paulo,VALINHOS,0.819,0.763,0.85,0.848,Alto Desenvolvimento Humano
+São Paulo,VALPARAÍSO,0.725,0.643,0.825,0.719,Médio Desenvolvimento Humano
+São Paulo,VARGEM,0.699,0.591,0.839,0.69,Médio Desenvolvimento Humano
+São Paulo,VARGEM GRANDE DO SUL,0.737,0.643,0.863,0.721,Médio Desenvolvimento Humano
+São Paulo,VARGEM GRANDE PAULISTA,0.77,0.683,0.884,0.755,Médio Desenvolvimento Humano
+São Paulo,VÁRZEA PAULISTA,0.759,0.705,0.863,0.72,Médio Desenvolvimento Humano
+São Paulo,VERA CRUZ,0.754,0.715,0.83,0.722,Médio Desenvolvimento Humano
+São Paulo,VINHEDO,0.817,0.739,0.878,0.84,Alto Desenvolvimento Humano
+São Paulo,VIRADOURO,0.739,0.683,0.823,0.717,Médio Desenvolvimento Humano
+São Paulo,VISTA ALEGRE DO ALTO,0.744,0.676,0.84,0.726,Médio Desenvolvimento Humano
+São Paulo,VITÓRIA BRASIL,0.725,0.685,0.811,0.686,Médio Desenvolvimento Humano
+São Paulo,VOTORANTIM,0.767,0.747,0.838,0.72,Médio Desenvolvimento Humano
+São Paulo,VOTUPORANGA,0.79,0.744,0.857,0.772,Médio Desenvolvimento Humano
+São Paulo,ZACARIAS,0.729,0.674,0.826,0.695,Médio Desenvolvimento Humano
+São Paulo,CHAVANTES,0.729,0.655,0.828,0.713,Médio Desenvolvimento Humano
+São Paulo,ESTIVA GERBI,0.74,0.695,0.815,0.716,Médio Desenvolvimento Humano
